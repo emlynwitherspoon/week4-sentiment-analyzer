@@ -8,6 +8,7 @@ challenge_reviews = {
         ("The story was not interesting at all.", "neg"),
         ("I did not enjoy watching this movie.", "neg"),
     ]
+}
 challenge_reviews["sarcasm"] = [
     ("Oh wonderful, another two hours I will never get back.", "neg"),
     ("What a masterpiece. I almost fell asleep three times.", "neg"),
